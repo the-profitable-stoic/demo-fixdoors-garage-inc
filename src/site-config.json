@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "FixDoors Garage Inc.",
+    "phone": "+16613861399",
+    "category": "garage door repair",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Bakersfield's Garage Door Experts",
+      "heroSubline": "Reliable repairs and installations for your home or business. Serving Bakersfield and the surrounding areas.",
+      "aboutTitle": "Your Trusted Garage Door Partner",
+      "aboutText": [
+        "FixDoors Garage Inc. has been serving the Bakersfield community for over a decade. We started as a small, family-owned business with a simple goal: to provide honest, reliable garage door services at a fair price.",
+        "Our approach is straightforward: we listen to our customers, diagnose the problem accurately, and provide efficient solutions. We value integrity and transparency in every job we undertake, ensuring you understand the process and the cost upfront.",
+        "We're proud to be a part of the Bakersfield community. We actively support local initiatives and strive to contribute to the well-being of our neighbors. When you choose FixDoors Garage Inc., you're supporting a local business that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Fast Response Times",
+          "description": "We understand the urgency of a malfunctioning garage door. Expect prompt service and quick resolutions."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team consists of highly trained and certified technicians with years of experience in the field."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear and transparent pricing before any work begins."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "We use only high-quality parts and materials to ensure lasting repairs and reliable performance."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Estimate Today!",
+      "ctaSubline": "Contact us now for a quick and accurate assessment of your garage door needs."
+    },
+    "services": [
+      {
+        "slug": "garage-door-repair",
+        "name": "Garage Door Repair",
+        "shortDescription": "Expert repairs for all types of garage door issues.",
+        "description": "Is your garage door making strange noises, refusing to open, or hanging crookedly? Don't wait for the problem to worsen. FixDoors Garage Inc. provides comprehensive garage door repair services in Bakersfield. From broken springs and damaged panels to faulty openers and misaligned tracks, our experienced technicians can diagnose and fix any issue quickly and efficiently.\n\nWe understand the importance of a functioning garage door for security and convenience, especially in a climate like Bakersfield where extreme heat can damage unprotected belongings. We work on all makes and models of garage doors, using high-quality replacement parts to ensure lasting repairs. Our team is equipped to handle emergency repairs, minimizing disruption to your daily routine.\n\nWhether you live in Oleander-Sunset or a newer development further west, we'll come to you. We pride ourselves on providing prompt, reliable service and transparent pricing. Get your garage door back in top shape with FixDoors Garage Inc.",
+        "process": [
+          "Step 1: Inspection and Diagnosis: We thoroughly inspect your garage door to identify the root cause of the problem.",
+          "Step 2: Transparent Quote: We provide a detailed and upfront quote for the necessary repairs.",
+          "Step 3: Expert Repair: Our skilled technicians perform the repairs using high-quality parts and proven techniques.",
+          "Step 4: Testing and Verification: We test the door to ensure smooth and reliable operation after the repair."
+        ],
+        "benefits": [
+          "Improved Security",
+          "Enhanced Convenience",
+          "Extended Door Lifespan",
+          "Reduced Repair Costs in the Long Run"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical garage door repair take?",
+            "answer": "Most repairs can be completed within a few hours, depending on the complexity of the issue. We'll provide an estimated timeframe during the initial assessment."
+          },
+          {
+            "question": "Do you offer emergency repair services?",
+            "answer": "Yes, we understand that garage door problems can arise at any time. We offer 24/7 emergency repair services to address urgent issues promptly."
+          },
+          {
+            "question": "What types of garage doors do you repair?",
+            "answer": "We repair all types of garage doors, including sectional, roll-up, and tilt-up doors. We also work on various brands and models of garage door openers."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-installation",
+        "name": "Garage Door Installation",
+        "shortDescription": "Professional installation of new garage doors for homes and businesses.",
+        "description": "Looking to upgrade your home's curb appeal or improve security? FixDoors Garage Inc. offers professional garage door installation services in Bakersfield. We carry a wide selection of high-quality garage doors from leading manufacturers, including steel, wood, and aluminum options. Our experienced team can help you choose the perfect door to match your style, budget, and functional needs.\n\nWe understand that garage door styles vary across Bakersfield neighborhoods. Whether you want a classic look for your home near the Crystal Palace or a modern design for a newer build, we can help. Our installation process is meticulous, ensuring proper alignment, smooth operation, and long-lasting performance. We also handle all necessary wiring and programming for your new garage door opener.\n\nFrom initial consultation to final inspection, we're committed to providing a seamless and stress-free installation experience. We'll remove your old door, prepare the opening, install the new door, and clean up the job site, leaving you with a beautiful and functional garage door.",
+        "process": [
+          "Step 1: Consultation and Selection: We help you choose the right garage door based on your needs and preferences.",
+          "Step 2: Precise Measurement: We take accurate measurements to ensure a perfect fit.",
+          "Step 3: Professional Installation: Our skilled technicians install the door with precision and care.",
+          "Step 4: Testing and Adjustment: We test and adjust the door to ensure smooth and reliable operation."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Curb Appeal",
+          "Enhanced Security",
+          "Energy Efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How long does a garage door installation take?",
+            "answer": "A typical garage door installation takes about 4-6 hours, depending on the complexity of the installation and the type of door."
+          },
+          {
+            "question": "Do you offer a warranty on your garage door installations?",
+            "answer": "Yes, we offer a comprehensive warranty on our garage door installations, covering both parts and labor. Details vary by manufacturer."
+          },
+          {
+            "question": "Can you install a garage door opener with my new door?",
+            "answer": "Yes, we can install a new garage door opener along with your new door. We offer a variety of openers to suit your needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Fixing all brands of garage door openers in Bakersfield.",
+        "description": "A malfunctioning garage door opener can be a major inconvenience and security risk. FixDoors Garage Inc. specializes in garage door opener repair in Bakersfield, addressing issues such as remote control problems, motor failures, and safety sensor malfunctions. Our technicians are experienced in working with all major brands of garage door openers, including Chamberlain, LiftMaster, Genie, and more.\n\nWe understand the importance of a properly functioning safety system, especially with Bakersfield's hot climate making manual operation difficult. We'll thoroughly inspect your opener to identify the problem and provide a cost-effective solution. Whether it's a simple adjustment or a complete motor replacement, we'll get your garage door opener working smoothly again.\n\nWe pride ourselves on our quick response times and efficient service. We know that a broken garage door opener can disrupt your daily routine, so we strive to provide same-day service whenever possible. We'll diagnose the problem, explain the repair options, and get your garage door opener back in working order quickly and efficiently.",
+        "process": [
+          "Step 1: Diagnosis: We identify the cause of the opener malfunction.",
+          "Step 2: Repair Options: We present you with clear repair options and pricing.",
+          "Step 3: Skilled Repair: We perform the necessary repairs with precision.",
+          "Step 4: Safety Check: We ensure all safety features are functioning correctly."
+        ],
+        "benefits": [
+          "Restored Convenience",
+          "Improved Security",
+          "Prevent Further Damage",
+          "Extended Opener Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door opener needs repair?",
+            "answer": "Common signs include the door not opening or closing properly, unusual noises, or the remote control not working. If you notice any of these issues, it's best to call a professional for an inspection."
+          },
+          {
+            "question": "Can you repair my garage door opener if it's an older model?",
+            "answer": "Yes, we can often repair older models. However, if the parts are no longer available, we can recommend a suitable replacement."
+          },
+          {
+            "question": "How often should I have my garage door opener serviced?",
+            "answer": "We recommend having your garage door opener serviced annually to ensure smooth operation and prevent costly repairs. Regular maintenance can help extend the lifespan of your opener."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-spring-replacement",
+        "name": "Garage Door Spring Replacement",
+        "shortDescription": "Safe and reliable garage door spring replacement services.",
+        "description": "Broken garage door springs are a common problem, especially in Bakersfield's climate where temperature fluctuations can weaken the metal. Attempting to replace garage door springs yourself can be dangerous due to the high tension involved. FixDoors Garage Inc. offers safe and reliable garage door spring replacement services, ensuring your door operates smoothly and safely.\n\nWhether you have torsion springs or extension springs, our experienced technicians have the tools and expertise to handle the job correctly. We use only high-quality replacement springs designed for long-lasting performance. We'll ensure the springs are properly balanced and tensioned to prevent further damage to your garage door system. \n\nDon't risk injury or further damage to your garage door. Call FixDoors Garage Inc. for professional garage door spring replacement services. We'll get your door back in working order quickly and safely.",
+        "process": [
+          "Step 1: Safety Assessment: We assess the situation and ensure a safe working environment.",
+          "Step 2: Spring Removal: We carefully remove the broken springs.",
+          "Step 3: Spring Installation: We install new, high-quality springs.",
+          "Step 4: Tension Adjustment: We adjust the spring tension for optimal performance."
+        ],
+        "benefits": [
+          "Safe Operation",
+          "Balanced Door Movement",
+          "Extended Door Lifespan",
+          "Reduced Risk of Injury"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door springs are broken?",
+            "answer": "Common signs include a loud snapping noise, the door not opening or closing properly, or the door appearing lopsided. Never attempt to operate a garage door with broken springs."
+          },
+          {
+            "question": "How long do garage door springs typically last?",
+            "answer": "Garage door springs typically last for 7-10 years, depending on usage and maintenance. Regular lubrication can help extend their lifespan."
+          },
+          {
+            "question": "What is the difference between torsion springs and extension springs?",
+            "answer": "Torsion springs are mounted above the garage door opening, while extension springs are located on either side of the door. Torsion springs are generally considered to be more durable and safer than extension springs."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-cable-repair",
+        "name": "Garage Door Cable Repair",
+        "shortDescription": "Fixing frayed, snapped, or loose garage door cables.",
+        "description": "Garage door cables play a crucial role in the safe and efficient operation of your garage door. Over time, these cables can fray, snap, or become loose, causing the door to malfunction or even become a safety hazard. FixDoors Garage Inc. provides expert garage door cable repair services in Bakersfield, ensuring your door operates smoothly and safely.\n\nOur experienced technicians can quickly diagnose cable problems and provide effective solutions. We use only high-quality replacement cables designed for durability and long-lasting performance. We'll properly tension the cables to ensure balanced door movement and prevent further damage to your garage door system.\n\nDon't risk operating a garage door with damaged cables. Call FixDoors Garage Inc. for professional garage door cable repair services. We'll get your door back in working order quickly and safely, giving you peace of mind.",
+        "process": [
+          "Step 1: Inspection: We carefully inspect the cables for damage.",
+          "Step 2: Cable Replacement: We replace frayed or broken cables with high-quality replacements.",
+          "Step 3: Tension Adjustment: We adjust the cable tension for balanced operation.",
+          "Step 4: Safety Check: We ensure the door operates safely and smoothly."
+        ],
+        "benefits": [
+          "Safe Operation",
+          "Balanced Door Movement",
+          "Prevent Further Damage",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a damaged garage door cable?",
+            "answer": "Common signs include frayed or broken cables, the door not opening or closing evenly, or the door appearing lopsided."
+          },
+          {
+            "question": "Can I replace garage door cables myself?",
+            "answer": "Replacing garage door cables can be dangerous due to the high tension involved. It's best to call a professional for cable replacement."
+          },
+          {
+            "question": "How often should I have my garage door cables inspected?",
+            "answer": "We recommend having your garage door cables inspected annually to ensure they are in good condition. Regular lubrication can help extend their lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "off-track-garage-door-repair",
+        "name": "Off-Track Garage Door Repair",
+        "shortDescription": "Getting your garage door back on track safely and efficiently.",
+        "description": "A garage door that has come off its tracks is a serious problem that requires immediate attention. Attempting to force the door back on track yourself can cause further damage and even pose a safety risk. FixDoors Garage Inc. specializes in off-track garage door repair in Bakersfield, providing safe and efficient solutions.\n\nOur experienced technicians can quickly diagnose the cause of the problem and get your door back on track without causing further damage. We'll inspect the tracks, rollers, and other components to identify any underlying issues. We'll then carefully realign the door and ensure it operates smoothly and safely.\n\nDon't risk further damage or injury. Call FixDoors Garage Inc. for professional off-track garage door repair services. We'll get your door back on track quickly and efficiently, restoring the security and convenience of your garage.",
+        "process": [
+          "Step 1: Safety Assessment: We assess the situation and ensure a safe working environment.",
+          "Step 2: Track Inspection: We inspect the tracks for damage or misalignment.",
+          "Step 3: Door Realignment: We carefully realign the door within the tracks.",
+          "Step 4: Component Repair: We repair or replace any damaged components."
+        ],
+        "benefits": [
+          "Safe Operation",
+          "Prevent Further Damage",
+          "Restored Functionality",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "What causes a garage door to go off track?",
+            "answer": "Common causes include damaged tracks, broken rollers, or an obstruction in the door's path."
+          },
+          {
+            "question": "Can I try to fix an off-track garage door myself?",
+            "answer": "Attempting to fix an off-track garage door yourself can be dangerous due to the weight of the door and the potential for further damage. It's best to call a professional for assistance."
+          },
+          {
+            "question": "How much does it cost to repair an off-track garage door?",
+            "answer": "The cost of repairing an off-track garage door varies depending on the extent of the damage and the necessary repairs. We offer free estimates for all of our services."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "FixDoors Garage Inc. is proud to offer comprehensive garage door repair services to the residents and businesses of Bakersfield, California. We understand the importance of a functioning garage door for your security and convenience, and our team of experienced technicians is dedicated to providing prompt, reliable, and affordable solutions. From broken springs and damaged panels to malfunctioning openers and sensor issues, we handle it all. \n\nWe're committed to serving the entire Bakersfield area, including downtown, Seven Oaks, and all neighborhoods in between. Our technicians are equipped with the latest tools and technology to diagnose and repair any garage door problem efficiently. We also offer emergency repair services for those unexpected situations that require immediate attention. Trust FixDoors Garage Inc. to keep your garage door operating smoothly and safely.",
+        "localContext": "Bakersfield, a vibrant city in the Kern County, is known for its rich agricultural heritage and thriving country music scene. FixDoors Garage Inc. is committed to serving the unique needs of Bakersfield residents.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "FixDoors Garage Inc. extends its expert garage door repair services to the community of Oildale, California. We recognize the importance of a properly functioning garage door for the safety and security of your home or business. Our skilled technicians are equipped to handle a wide range of issues, ensuring your garage door operates smoothly and reliably.\n\n Whether you're dealing with a broken spring, a malfunctioning opener, or damaged panels, FixDoors Garage Inc. is here to help. We offer prompt and efficient service, using only high-quality parts to ensure lasting repairs. We are dedicated to providing affordable solutions tailored to the specific needs of Oildale residents.",
+        "localContext": "Oildale is a community with a strong sense of local pride and a rich history rooted in the oil industry. FixDoors Garage Inc. values the opportunity to serve the residents of Oildale.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "FixDoors Garage Inc. is pleased to provide top-notch garage door repair services to the residents of Rosedale, California. We understand the significance of a well-maintained garage door for your home's security, curb appeal, and overall functionality. Our team of experienced technicians is dedicated to delivering exceptional service and reliable solutions.\n\n From routine maintenance to complex repairs, FixDoors Garage Inc. has you covered. We're equipped to handle all types of garage door issues, including broken springs, faulty openers, and damaged tracks. We prioritize customer satisfaction and strive to provide prompt, professional, and affordable service to the Rosedale community.",
+        "localContext": "Rosedale is a growing community known for its beautiful homes and family-friendly atmosphere. FixDoors Garage Inc. is committed to providing Rosedale residents with reliable garage door solutions.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Oildale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "FixDoors Garage Inc. proudly serves the community of Shafter, California, offering expert garage door repair and maintenance services. We understand that a properly functioning garage door is essential for the security and convenience of your home or business. Our experienced technicians are committed to providing prompt, reliable, and affordable solutions to all your garage door needs.\n\n Whether you're dealing with a broken spring, a malfunctioning opener, or a damaged door panel, FixDoors Garage Inc. is here to help. We use only high-quality parts and materials to ensure lasting repairs and customer satisfaction. We're dedicated to serving the Shafter community with integrity and professionalism.",
+        "localContext": "Shafter is a vibrant agricultural community known for its friendly residents and strong community spirit. FixDoors Garage Inc. is proud to be a part of the Shafter community.",
+        "nearbyAreas": [
+          "Rosedale",
+          "Wasco",
+          "Buttonwillow"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "FixDoors Garage Inc. extends its professional garage door services to Wasco, CA. We understand the importance of a secure and smoothly operating garage door for your home or business. Our team is equipped to handle any issue, from broken springs to malfunctioning openers, ensuring your garage door functions perfectly.\n\nWe are committed to providing Wasco residents with prompt, reliable, and affordable service. We use only high-quality parts to ensure lasting repairs and your peace of mind. We take pride in serving the Wasco community with integrity and dedication.",
+        "localContext": "Wasco is a close-knit community known for its agricultural heritage and friendly atmosphere. FixDoors Garage Inc. is dedicated to serving the unique needs of Wasco residents.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "FixDoors Garage Inc. is dedicated to providing exceptional garage door repair services to the residents of Lamont, California. We understand the importance of a properly functioning garage door for the security and convenience of your home or business. Our experienced technicians are committed to delivering reliable and affordable solutions to all your garage door needs.\n\nWhether you're dealing with a broken spring, a malfunctioning opener, or a damaged door panel, FixDoors Garage Inc. is here to help. We use only high-quality parts and materials to ensure lasting repairs and customer satisfaction. We're dedicated to serving the Lamont community with integrity and professionalism.",
+        "localContext": "Lamont is a growing community with a strong sense of community spirit. FixDoors Garage Inc. is proud to be a part of the Lamont community.",
+        "nearbyAreas": [
+          "Arvin",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "FixDoors Garage Inc. is pleased to offer its expert garage door repair services to the community of Arvin, California. We recognize the importance of a properly functioning garage door for the safety and security of your home or business. Our skilled technicians are equipped to handle a wide range of issues, ensuring your garage door operates smoothly and reliably.\n\nWhether you're dealing with a broken spring, a malfunctioning opener, or damaged panels, FixDoors Garage Inc. is here to help. We offer prompt and efficient service, using only high-quality parts to ensure lasting repairs. We are dedicated to providing affordable solutions tailored to the specific needs of Arvin residents.",
+        "localContext": "Arvin is a vibrant agricultural community known for its hard-working residents and strong family values. FixDoors Garage Inc. is committed to serving the Arvin community with dedication and integrity.",
+        "nearbyAreas": [
+          "Lamont",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Tehachapi",
+        "slug": "tehachapi-ca",
+        "state": "CA",
+        "content": "FixDoors Garage Inc. is proud to offer its comprehensive garage door repair services to the residents and businesses of Tehachapi, California. We understand the unique needs of this mountain community and the importance of a properly functioning garage door for your security and convenience. Our team of experienced technicians is dedicated to providing prompt, reliable, and affordable solutions.\n\nFrom dealing with the effects of harsh weather on your garage door to repairing broken springs or malfunctioning openers, we handle it all. We're committed to serving the entire Tehachapi area. Trust FixDoors Garage Inc. to keep your garage door operating smoothly and safely.",
+        "localContext": "Tehachapi is a unique mountain community known for its beautiful scenery and strong community spirit. FixDoors Garage Inc. is committed to serving the unique needs of Tehachapi residents.",
+        "nearbyAreas": [
+          "Mojave",
+          "California City",
+          "Rosamond"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Garage Door Repair",
+        "text": "My garage door wouldn't open, and I was worried about leaving my car outside overnight. FixDoors Garage Inc. came out quickly and fixed the broken spring. The technician was professional and explained everything clearly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Garage Door Installation",
+        "text": "We recently upgraded our garage door, and FixDoors Garage Inc. did a great job. The installation was smooth, and the new door looks fantastic. There was a minor delay due to weather, but they communicated well throughout the process.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Linda K.",
+        "rating": 5,
+        "service": "Garage Door Opener Repair",
+        "text": "Our garage door opener stopped working, and we couldn't get our cars out. FixDoors Garage Inc. came out the same day and repaired the motor. The technician was knowledgeable and efficient. Great service!",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Garage Door Spring Replacement",
+        "text": "I had a broken garage door spring and called FixDoors Garage Inc. They were very responsive and replaced the spring quickly and safely. The price was reasonable, and the technician was friendly and professional.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Susan L.",
+        "rating": 4,
+        "service": "Garage Door Cable Repair",
+        "text": "The cable on my garage door snapped, and the door was hanging crookedly. FixDoors Garage Inc. came out and replaced the cable. The service was quick and efficient. I would use them again.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Off-Track Garage Door Repair",
+        "text": "My garage door came off its tracks after I accidentally bumped into it with my car. FixDoors Garage Inc. came out and got it back on track quickly and safely. I was very impressed with their service.",
+        "date": "2024-11-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "FixDoors Garage Inc. | Bakersfield, CA",
+        "description": "Reliable garage door repair and installation in Bakersfield. Fast service, expert technicians, and upfront pricing. Call today!"
+      },
+      "about": {
+        "title": "About Us | FixDoors Garage Inc.",
+        "description": "Learn more about FixDoors Garage Inc. in Bakersfield. Our commitment to quality, service, and community."
+      },
+      "services": {
+        "title": "Garage Door Services | FixDoors Garage Inc.",
+        "description": "Comprehensive garage door repair, installation, and maintenance services in Bakersfield, CA."
+      },
+      "contact": {
+        "title": "Contact Us | FixDoors Garage Inc.",
+        "description": "Contact FixDoors Garage Inc. for fast and reliable garage door services in Bakersfield. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | FixDoors Garage Inc.",
+        "description": "Read what our satisfied customers are saying about FixDoors Garage Inc.'s garage door services in Bakersfield."
+      },
+      "service-areas": {
+        "title": "Service Areas | FixDoors Garage Inc.",
+        "description": "FixDoors Garage Inc. provides garage door services to Bakersfield and surrounding areas in California."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-repair": "/images/service-garage-door-repair.webp",
+      "garage-door-installation": "/images/service-garage-door-installation.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-spring-replacement": "/images/service-garage-door-spring-replacement.webp",
+      "garage-door-cable-repair": "/images/service-garage-door-cable-repair.webp",
+      "off-track-garage-door-repair": "/images/service-off-track-garage-door-repair.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-repair": {
+        "src": "/images/service-garage-door-repair.webp",
+        "srcset": "/images/service-garage-door-repair-400w.webp 400w, /images/service-garage-door-repair-800w.webp 800w, /images/service-garage-door-repair-1200w.webp 1200w, /images/service-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-installation": {
+        "src": "/images/service-garage-door-installation.webp",
+        "srcset": "/images/service-garage-door-installation-400w.webp 400w, /images/service-garage-door-installation-800w.webp 800w, /images/service-garage-door-installation-1200w.webp 1200w, /images/service-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-spring-replacement": {
+        "src": "/images/service-garage-door-spring-replacement.webp",
+        "srcset": "/images/service-garage-door-spring-replacement-400w.webp 400w, /images/service-garage-door-spring-replacement-800w.webp 800w, /images/service-garage-door-spring-replacement-1200w.webp 1200w, /images/service-garage-door-spring-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-cable-repair": {
+        "src": "/images/service-garage-door-cable-repair.webp",
+        "srcset": "/images/service-garage-door-cable-repair-400w.webp 400w, /images/service-garage-door-cable-repair-800w.webp 800w, /images/service-garage-door-cable-repair-1200w.webp 1200w, /images/service-garage-door-cable-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "off-track-garage-door-repair": {
+        "src": "/images/service-off-track-garage-door-repair.webp",
+        "srcset": "/images/service-off-track-garage-door-repair-400w.webp 400w, /images/service-off-track-garage-door-repair-800w.webp 800w, /images/service-off-track-garage-door-repair-1200w.webp 1200w, /images/service-off-track-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
